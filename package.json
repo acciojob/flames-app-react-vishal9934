@@ -8,6 +8,7 @@
     "start": "NODE_OPTIONS=--openssl-legacy-provider webpack-dev-server --mode development --watch --open --hot",
     "build": "NODE_OPTIONS=--openssl-legacy-provider webpack --mode production"
 
+
   },
   "keywords": [],
   "author": "",
